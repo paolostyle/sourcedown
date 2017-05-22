@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SourceDown</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_placeholder">Wpisz adres</string>
+    <string name="button_desc">Download website</string>
+    <string name="download">Pobierz</string>
+</resources>
