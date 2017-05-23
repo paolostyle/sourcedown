@@ -4,4 +4,5 @@
     <string name="url_placeholder">Wpisz adres</string>
     <string name="button_desc">Download website</string>
     <string name="download">Pobierz</string>
+    <string name="http">http://</string>
 </resources>
