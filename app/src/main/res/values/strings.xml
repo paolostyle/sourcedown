@@ -11,4 +11,6 @@
     <string name="noconnection_info">Brak połączenia z internetem - dane z cache</string>
     <string name="alert_info">Informacja</string>
     <string name="alert_cacheclean">Wyczyszczono cache</string>
+    <string name="downloading">Pobieranie</string>
+    <string name="downloading_long">Trwa pobieranie&#8230;</string>
 </resources>
