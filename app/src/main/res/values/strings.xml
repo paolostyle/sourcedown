@@ -1,9 +1,14 @@
 <resources>
     <string name="app_name">SourceDown</string>
     <string name="action_about">Autor</string>
+    <string name="action_dropcache">Wyczyść cache</string>
+    <string name="about_content">Paweł Dąbrowski</string>
     <string name="url_placeholder">Wpisz adres</string>
     <string name="download">Pobierz</string>
     <string name="http">http://</string>
     <string name="alert_error">Błąd</string>
     <string name="error_connection">Brak połączenia z Internetem</string>
+    <string name="noconnection_info">Brak połączenia z internetem - dane z cache</string>
+    <string name="alert_info">Informacja</string>
+    <string name="alert_cacheclean">Wyczyszczono cache</string>
 </resources>

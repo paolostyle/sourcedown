@@ -7,4 +7,9 @@
         android:orderInCategory="100"
         android:title="@string/action_about"
         app:showAsAction="never" />
+    <item
+        android:id="@+id/action_dropcache"
+        android:orderInCategory="200"
+        android:title="@string/action_dropcache"
+        app:showAsAction="never" />
 </menu>
